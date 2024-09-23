@@ -1,4 +1,4 @@
-App de tempo
+#App de tempo
 Descrição do Projeto
 O App de tempo é uma aplicação web básica que permite ao usuário pesquisar a previsão do tempo para diferentes cidades, utilizando HTML, CSS e TypeScript, o projeto consome uma API para buscar dados meteorológicos em tempo real, exibindo as condições climáticas, temperatura e uma imagem representando o clima, o design é responsivo, garantindo uma boa experiência em diferentes dispositivos.
 
